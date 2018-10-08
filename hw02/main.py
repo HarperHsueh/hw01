@@ -1,7 +1,6 @@
 import turtle
 import time
 
-
 def drawflag():
     turtle.pensize(5)
     turtle.color("red")
